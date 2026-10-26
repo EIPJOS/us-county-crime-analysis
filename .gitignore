@@ -1,0 +1,19 @@
+# Raw data (download from Kaggle, see data/README.md)
+data/*
+!data/README.md
+
+# LaTeX build files
+*.aux
+*.log
+*.lof
+*.lot
+*.out
+*.toc
+*.synctex.gz
+paper/*.pdf
+
+# Local working copies
+overleaf/
+*.zip
+.Rhistory
+.RData
