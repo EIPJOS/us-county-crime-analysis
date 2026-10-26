@@ -1,7 +1,7 @@
-# CDS 492 capstone (revised analysis): county-level crime, air quality, cost of living
+# Undergraduate thesis, CDS 492 (revised analysis): county-level crime, air quality, cost of living
 # Austin Yoo
 #
-# Re-estimates the capstone models at the county level, where crime is measured,
+# Re-estimates the thesis models at the county level, where crime is measured,
 # with state-clustered standard errors and controls. Writes LaTeX tables, figures,
 # and a JSON of key numbers used in the paper.
 #

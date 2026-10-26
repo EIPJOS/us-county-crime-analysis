@@ -1,11 +1,11 @@
 # Air Quality, Cost of Living, and Crime Across U.S. Counties
 
-조지메이슨대학교 Computational and Data Sciences 학사 졸업 캡스톤입니다. (지도교수: Dr. Kent Miller)
+조지메이슨대학교 Computational and Data Sciences 학사 졸업논문입니다. (지도교수: Dr. Kent Miller)
 
 2025년 12월에 제출한 버전을 2026년 10월에 다시 분석한 개정판입니다.
 처음 분석에서 나온 "매우 유의한" 결과들이 통계적 착시였다는 것을 확인하고, 분석 단위와 방법을 고쳐 결론을 새로 냈습니다.
 
-- 논문 전문 (42쪽): [docs/capstone_revised.pdf](docs/capstone_revised.pdf)
+- 논문 전문 (42쪽): [docs/thesis_revised.pdf](docs/thesis_revised.pdf)
 - 영문 2쪽 요약: [docs/summary_revised.pdf](docs/summary_revised.pdf)
 - 한글 요약: [docs/SUMMARY_KO.md](docs/SUMMARY_KO.md)
 
@@ -59,7 +59,7 @@ data/           원자료 안내 (데이터 파일은 포함하지 않음)
 
 ## English summary
 
-This is my undergraduate capstone in Computational and Data Sciences at George Mason University, revised in October 2026.
+This is my undergraduate thesis in Computational and Data Sciences at George Mason University, written for the CDS 492 senior capstone course and revised in October 2026.
 
 The first version reported that both air quality and cost of living were strongly associated with county crime (p < 10^-16). Re-examining the data showed that both results were spurious, for three different reasons:
 
@@ -69,4 +69,4 @@ The first version reported that both air quality and cost of living were strongl
 
 Across 2,892 counties, income (negative) and urbanization (positive) are the strongest correlates of crime. The data are cross-sectional, so these are associations, not causal effects.
 
-Full paper: [docs/capstone_revised.pdf](docs/capstone_revised.pdf) · Two-page summary: [docs/summary_revised.pdf](docs/summary_revised.pdf)
+Full paper: [docs/thesis_revised.pdf](docs/thesis_revised.pdf) · Two-page summary: [docs/summary_revised.pdf](docs/summary_revised.pdf)
